@@ -810,7 +810,7 @@ with st.sidebar:
     num_servers = st.slider("Servers", 6, 20, 12)
     num_users   = st.slider("Users", 100, 600, 300, step=50)
     fail_rate   = st.slider("Failure Rate", 0.0, 0.6, 0.30, step=0.05,
-                            format="%.02f%",
+                            format="%.2f",
                             help="Probability each server fails")
 
     st.markdown("**GA Hyperparameters**")
