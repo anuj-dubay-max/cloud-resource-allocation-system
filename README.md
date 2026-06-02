@@ -4,7 +4,7 @@ An interactive Streamlit-based cloud resource allocation simulator that compares
 
 The system simulates cloud environments where user workloads compete for limited resources while maintaining load balance, resource utilization, and SLA compliance.
 
-**Live Demo:** https://your-app.streamlit.app
+**Live Demo:** https://cloud-resource-allocation-system-h8byftneq86kkxmbty9nqf.streamlit.app/
 
 ---
 
